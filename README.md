@@ -8,9 +8,10 @@ Trong đề tài này, nhóm chúng em hướng tới việc giúp đỡ cho cá
 ### Kiến trúc hệ thống
 ![image](https://github.com/Linh-1811/HL_TD_TLCN_DE/blob/main/z6107865789875_914ef1847e7847e2d22bab39a705228c.jpg)
 
+### Tập dữ liệu tham khảo cho dự án 
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 ### Các bước khởi động dự án
-
 #### ** Setup trên Anaconda Command Prompt**
 - Tải Anaconda
 - Thiết lập kafka server<br>
