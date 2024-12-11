@@ -1,0 +1,10 @@
+[\U0001F600-\U0001F64F]  # Grinning Face to Winking Face
+| [\U0001F300-\U0001F5FF]  # Miscellaneous Symbols and Pictographs
+| [\U0001F680-\U0001F6FF]  # Transportation and Map Symbols
+| [\U0001F700-\U0001F77F]  # Alchemical Symbols
+| [\U0001F780-\U0001F7FF]  # Geometric Shapes Extended
+| [\U0001F800-\U0001F8FF]  # Supplemental Arrows-C
+| [\U0001F900-\U0001F9FF]  # Supplemental Symbols and Pictographs
+| [\U0001F1E6-\U0001F1FF]  # Regional Indicator Symbols (Flags)
+| [\U00002700-\U000027BF]  # Dingbats
+| \U0000FE0F  # Variation Selector-16 (for emoji representation)
