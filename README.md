@@ -5,24 +5,14 @@ Trong đề tài này, nhóm chúng em hướng tới việc giúp đỡ cho cá
 - Cao Hùng Lĩnh
 - Đỗ Tiến Đạt
 
+### Kiến trúc hệ thống
+![image](https://github.com/Linh-1811/HL_TD_TLCN_DE/blob/main/z6107865789875_914ef1847e7847e2d22bab39a705228c.jpg)
 
-### Dataset
-- Twitter Labelled Data (Training): https://www.crowdflower.com/data-for-everyone/
-- Twitter Unlabelled Data (Training): Fetched customer tweets for selected 8 airlines
-- Twitter Unlabelled Data (Testing): Fetching live tweets mentioning @DataMinersSfu
-
-### Project Architecture
-![image](https://user-images.githubusercontent.com/23083816/z6107865789875_914ef1847e7847e2d22bab39a705228c.png)
-
-_All the initial commits were pushed in version-1 and after successfull validation it was merged with main branch_
 
 ### Các bước khởi động dự án
 
-#### **1. Thử nghiệm trên Anaconda Command Prompt**
+#### ** Setup trên Anaconda Command Prompt**
 - Tải Anaconda
-- Thiết lập Zookeeper:<br>
-  Điều chỉnh zoopkeeper theo hệ thống của của từng máy. Trong trường hợp này, nhóm chúng em sẽ giữ nguyên các giá trị mặc định:
- 
 - Thiết lập kafka server<br>
 
  - Khởi động server:<br>
@@ -40,12 +30,3 @@ python tele_producer.py
 ```
 python tele_consumer.py
 ```
-
-
-#### **2. Testing on CLI**
-- Run twitter_cli.py
-```
-python3 twitter_cli.py
-```
-- Browse through the example tweets using Menu option - 1
-- Test your example tweet using Menu option - 2
